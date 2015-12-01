@@ -49,7 +49,13 @@ Tạo rule trong OpenVPN
 <img src ="http://i.imgur.com/qujiDea.png ">
 
 
+Kết quả như hình dưới là bạn đã cấu hình thành công:
 
+Site A
+<img src ="http://i.imgur.com/QvRg2Kl.png">
+
+Site B
+<img src="http://i.imgur.com/QOTLmcc.png">
 
 
 
